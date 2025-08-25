@@ -1,6 +1,6 @@
 <!-- Banner de apresentação -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Danillo%20Coelho%20Barbosa&fontSize=35&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+  <img src="assets/banner.png" alt="Danillo Coelho Barbosa Banner"/>
 </p>
 
 # 👨‍💻 Danillo Coelho Barbosa  
