@@ -1,6 +1,6 @@
 <!-- Banner de apresentação -->
 <p align="center">
-  <img src="assets/banner.png" alt="Danillo Coelho Barbosa Banner"/>
+  <img src="banner.png" alt="Danillo Coelho Barbosa Banner"/>
 </p>
 
 # 👨‍💻 Danillo Coelho Barbosa  
