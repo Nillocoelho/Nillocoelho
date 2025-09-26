@@ -1,6 +1,6 @@
 <!-- Banner ou imagem personalizada -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f0f0f,100:1e1e1e&height=100&section=header&text=Danillo%20Coelho%20Barbosa&fontColor=ffffff&fontSize=40&fontAlign=50&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,100:1e1e1e&height=200&section=header&text=Danillo%20Coelho%20Barbosa&fontColor=ffffff&fontSize=40&fontAlign=50&fontAlignY=35&desc=Desenvolvedor%20Mobile%20%7C%20Front-End&descAlign=50&descAlignY=55" />
 </p>
 
 <!-- Saudação -->
