@@ -1,6 +1,6 @@
-<!-- Banner ou imagem personalizada -->
+<!-- Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,100:1e1e1e&height=200&section=header&text=Danillo%20Coelho%20Barbosa&fontColor=ffffff&fontSize=40&fontAlign=50&fontAlignY=35&desc=Desenvolvedor%20Mobile%20%7C%20Front-End&descAlign=50&descAlignY=55" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,100:1e1e1e&height=200&section=header&text=Desenvolvedor%20Mobile%20%7C%20Front-End&fontColor=ffffff&fontSize=28&fontAlign=50&fontAlignY=35&animation=fadeIn" />
 </p>
 
 <!-- Saudação -->
@@ -13,10 +13,10 @@
 ---
 
 ### 🧑‍💻 Sobre mim
-- 🎓 Tecnólogo em **Sistemas para Internet** no IFPB + formação técnica em **Automação Industrial**  
+- 🎓 Tecnólogo em **Sistemas para Internet** (em andamento, IFPB) + formação técnica em **Automação Industrial**  
 - 💼 Experiência prática com **Flutter/Dart**, **Angular**, **Django** e **PostgreSQL**  
-- 🚀 Interesse em desenvolvimento **Mobile & Web**, integração de APIs e inovação tecnológica  
-- 🌱 Sempre aprendendo e contribuindo em projetos open-source e acadêmicos  
+- 🚀 Foco em desenvolvimento **Mobile & Web**, integração de APIs e inovação tecnológica  
+- 🌱 Sempre aprendendo, explorando novas stacks e contribuindo em projetos open-source e acadêmicos  
 
 ---
 
@@ -64,6 +64,7 @@
 
 ---
 
+<!-- Footer -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1e1e1e,100:0f0f0f&height=70&section=footer&text=Obrigado%20pela%20visita!&fontColor=ffffff&fontSize=20&fontAlign=50" />
 </p>
