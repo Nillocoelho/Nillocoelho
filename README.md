@@ -1,70 +1,92 @@
-<!-- Banner -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,100:1e1e1e&height=200&section=header&text=Desenvolvedor%20Mobile%20%7C%20Front-End&fontColor=ffffff&fontSize=28&fontAlign=50&fontAlignY=35&animation=fadeIn" />
-</p>
+🧑‍💻 Danillo Coelho Barbosa<br>
+🚀 Desenvolvedor Mobile & Full-Stack • Flutter | Dart | Angular | Java | Django
+<div align="center"> <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/> <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/> <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/> <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/> </div>
+<div align="center">
 
-<!-- Saudação -->
-<h3 align="center">👋 Olá, eu sou o Danillo!</h3>
-<p align="center">
-  Desenvolvedor <strong>Mobile</strong> & <strong>Front-End</strong><br/>
-  Estudante de <strong>Sistemas para Internet (IFPB)</strong>
-</p>
+🎯 Mobile-first Developer apaixonado por criar soluções reais, escaláveis e bem arquitetadas.
+Atuo como Dev Mobile na Softperformance, desenvolvendo aplicações corporativas para operação industrial, integrando Flutter, Angular, Django e APIs REST.
 
----
+</div>
+⚡ Stack de Tecnologias
+🖥️ Mobile
 
-### 🧑‍💻 Sobre mim
-- 🎓 Tecnólogo em **Sistemas para Internet** (em andamento, IFPB) + formação técnica em **Automação Industrial**  
-- 💼 Experiência prática com **Flutter/Dart**, **Angular**, **Django** e **PostgreSQL**  
-- 🚀 Foco em desenvolvimento **Mobile & Web**, integração de APIs e inovação tecnológica  
-- 🌱 Sempre aprendendo, explorando novas stacks e contribuindo em projetos open-source e acadêmicos  
+⚡ Flutter • Dart
 
----
+⚡ Kotlin • Android Nativo (MVVM)
 
-### ⚡ Tecnologias & Ferramentas
+⚡ Firebase (Auth, Realtime DB)
 
-<p align="center">
-  <!-- Front -->
-  <img src="https://skillicons.dev/icons?i=flutter,dart,angular,typescript,js,html,css" /><br/>
-  <!-- Back -->
-  <img src="https://skillicons.dev/icons?i=django,python,postgresql,mysql" /><br/>
-  <!-- Outros -->
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
-</p>
+🌐 Front-End
 
----
+⚡ Angular • TypeScript
 
-### 📊 Estatísticas do GitHub
+⚡ HTML5 • CSS3
 
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Nillocoelho&show_icons=true&theme=radical&hide_border=true" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Nillocoelho&theme=radical&hide_border=true" />
-</p>
+🛠️ Back-End
 
----
+⚡ Java • Spring Boot
 
-### 🎨 Projetos em destaque
-- 📱 [**App Mobile em Flutter**](#) — Aplicação com integração de APIs e design responsivo  
-- 🌐 [**Frontend Angular**](#) — Sistema web com foco em usabilidade e performance  
-- ⚙️ [**Projeto EDGE 5G**](#) — Pesquisa e desenvolvimento em inovação tecnológica no IFPB  
+⚡ Python • Django
 
----
+⚡ Node.js • API REST
 
-### 🌍 Conecte-se comigo
-<p align="center">
-  <a href="https://www.linkedin.com/in/danillo-coelho-barbosa-85396b184/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:nillocoelho@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://github.com/Nillocoelho">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</p>
+🗄️ Databases
 
----
+⚡ PostgreSQL • SQLite
 
-<!-- Footer -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1e1e1e,100:0f0f0f&height=70&section=footer&text=Obrigado%20pela%20visita!&fontColor=ffffff&fontSize=20&fontAlign=50" />
-</p>
+⚡ Supabase • Prisma ORM
+
+⚡ Firebase
+
+🔧 Ferramentas e Práticas
+
+⚡ Git • GitHub • Docker
+
+⚡ Clean Code • Design Patterns (Factory, Strategy, Template Method, Observer)
+
+⚡ Arquitetura de Software • Sprints Ágeis
+
+🏆 Projetos em Destaque
+
+Designs limpos, código organizado e propósito claro.
+
+🔹 SECAF — Plataforma de Gestão Contratual (Projeto Vencedor FUNETEC 2025)
+
+📌 Next.js • TypeScript • Prisma ORM • Supabase
+Sistema completo para gestão, execução e acompanhamento de contratos da FUNETEC-PB.
+🏅 Projeto campeão — selecionado e premiado em Hackathon.
+
+🔗 Repositório privado (disponível mediante solicitação)
+
+🔹 IFteca — Aplicativo Android Nativo para Reservas
+
+📱 Kotlin • Firebase • MVVM
+Aplicativo mobile nativo para reserva de salas de estudo do IFPB, com autenticação, CRUD e sincronização em tempo real.
+
+[👉 Ver repositório](https://github.com/Nillocoelho/IFteca)
+
+🔹 LumiCash — Sistema Financeiro Full-Stack
+
+💰 Java • Spring Boot • PostgreSQL
+API robusta para cadastro, autenticação e controle de movimentações financeiras.
+
+[👉 Ver repositório](https://github.com/Nillocoelho/Lumicash)
+
+🔹 Laudus — Sistema Java com Design Patterns
+
+🏛️ Java + Padrões de Projeto (Factory, Strategy, Template Method, Observer)
+Aplicação educacional focada em arquitetura limpa e boas práticas.
+
+[👉 Ver repositório](https://github.com/JessyeKessia/Laudus)
+
+📊 Estatísticas do GitHub
+<div align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Nillocoelho&show_icons=true&theme=tokyonight&hide_border=true" /> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nillocoelho&layout=compact&theme=tokyonight&hide_border=true" /> </div>
+🌎 Conecte-se comigo
+<div align="center">
+
+📫 LinkedIn: https://www.linkedin.com/in/nillocoelho
+
+💼 Portfólio: https://github.com/Nillocoelho
+
+</div>
+🚀 “Construindo soluções reais, uma linha de código por vez.”
