@@ -1,122 +1,83 @@
-<!-- Banner / Cabeçalho -->
-<div align="center">
+<h1 align="center">🚀 Danillo Coelho Barbosa</h1>
 
-# 🧑‍💻 Danillo Coelho Barbosa  
-### 🚀 Desenvolvedor Mobile & Full-Stack  
-**Flutter • Dart • Angular • Java • Django • Kotlin • PostgreSQL**
-
-<br>
-
-![Tech Grid](https://svgshare.com/i/14Zc.svg)
-
-</div>
+<p align="center">
+  <b>Desenvolvedor Mobile & Full-Stack</b><br>
+  Flutter • Dart • Angular • Java • Django • Kotlin • PostgreSQL
+</p>
 
 ---
 
-# ⚡ Sobre mim
-Sou um **Mobile-first Developer**, apaixonado por criar aplicações escaláveis, responsivas e bem arquitetadas.  
-Atuo atualmente como **Dev Mobile na Softperformance**, trabalhando com Flutter, Angular e Django na construção de aplicações corporativas para operação industrial.
+### 👨‍💻 Sobre mim
+Mobile-first Developer apaixonado por construir soluções eficientes, escaláveis e com arquitetura limpa.  
+Atuo com **Flutter/Dart** no desenvolvimento mobile corporativo, além de trabalhar com **Angular, Django, Java e APIs REST** no back-end e front-end.
 
-Focado em:
-- 🔥 Arquitetura limpa  
-- 🔥 Desenvolvimento mobile  
-- 🔥 Back-end escalável  
-- 🔥 Design Patterns  
-- 🔥 Boas práticas e clean code  
+Busco criar aplicações com propósito claro, código limpo e foco real na experiência do usuário.
 
 ---
 
-# 🧩 Tech Stack
+## 🧰 Stack de Tecnologias
 
-### 📱 **Mobile**
+### 📱 Mobile
 - Flutter • Dart  
 - Kotlin • Android Nativo (MVVM)  
-- Firebase (Auth, RealtimeDB)
+- Firebase (Auth + Realtime DB)
 
-### 🌐 **Front-End**
+### 🌐 Front-End
 - Angular • TypeScript  
 - HTML5 • CSS3  
 
-### 🖥 **Back-End**
+### 🖥 Back-End
 - Java • Spring Boot  
 - Python • Django  
-- Node.js • API REST  
+- Node.js • APIs REST
 
-### 🗄 **Databases**
-- PostgreSQL • SQLite  
-- Supabase • Prisma ORM  
+### 🗄 Bancos e Storage
+- PostgreSQL  
+- SQLite  
+- Supabase  
+- Prisma ORM  
 
-### 🔧 **Ferramentas**
-- Git • GitHub  
-- Docker  
-- Sprints Ágeis  
-
----
-
-# 🏆 Projetos em Destaque
-
-> Designs limpos, código organizado e propósito claro.
+### 🛠 Ferramentas e Boas Práticas
+- Git • GitHub • Docker  
+- Clean Code  
+- Design Patterns (Factory, Strategy, Template Method, Observer)  
+- Arquitetura de Software  
+- Sprints Ágeis
 
 ---
 
-### 🔹 **SECAF – Plataforma de Gestão Contratual**  
-📌 *Next.js • TypeScript • Prisma ORM • Supabase*  
-🏅 **Projeto vencedor do Hackathon FUNETEC 2025**
+## 🏆 Projetos em Destaque
 
-Sistema completo para gestão e acompanhamento de contratos.  
-Repositório privado → Disponível mediante solicitação
-
----
-
-### 🔹 **IFteca — App Android Nativo**  
-📱 *Kotlin • Firebase • MVVM*  
-Aplicativo mobile para reserva de salas de estudo do IFPB.
-
-👉 **[Acessar repositório](https://github.com/Nillocoelho/IFteca)**
+### 🔹 **SECAF (FUNETEC – Projeto Vencedor 2025)**
+Sistema completo de gestão contratual da FUNETEC-PB.  
+> Next.js • TypeScript • Prisma ORM • Supabase  
+🔗 Repositório: *privado — disponível sob solicitação*
 
 ---
 
-### 🔹 **LumiCash — Sistema Financeiro**  
-💰 *Java • Spring Boot • PostgreSQL*  
-API robusta para autenticação e controle de movimentações.
-
-👉 **[Acessar repositório](https://github.com/Nillocoelho/Lumicash)**
+### 🔹 **IFteca — Reservas de Salas (Android Nativo)**
+Aplicativo nativo para reserva de salas, com MVVM, Firebase, CRUD e sincronização em tempo real.  
+> Kotlin • Firebase • MVVM  
 
 ---
 
-### 🔹 **Laudus — Sistema Java com Design Patterns**  
-🏛 *Factory • Strategy • Template Method • Observer*  
-Aplicação educacional focada em padrões de projeto e boas práticas.
-
-👉 **[Acessar repositório](https://github.com/JessyeKessia/Laudus)**
+### 🔹 **LumiCash — Sistema Financeiro Full-Stack**
+API robusta e aplicação integrada para controle financeiro.  
+> Java • Spring Boot • PostgreSQL  
 
 ---
 
-# 📊 Estatísticas do GitHub
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Nillocoelho&show_icons=true&theme=radical&hide_border=true" />
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nillocoelho&layout=compact&theme=radical&hide_border=true" />
-
-</div>
+### 🔹 **Laudus — Sistema Java com Design Patterns**
+Aplicação educacional focada em arquitetura limpa e padrões de projeto.  
+> Java • Padrões de Projeto (Factory, Strategy, Observer etc.)
 
 ---
 
-# 🌎 Conecte-se comigo
+## 🤝 Conecte-se comigo
 
-<div align="center">
-
-🔗 **LinkedIn:** https://www.linkedin.com/in/nillocoelho  
-💼 **Portfólio:** https://github.com/Nillocoelho  
-
-</div>
+📎 LinkedIn: **https://www.linkedin.com/in/nillocoelho**  
+📂 Portfólio / GitHub: **https://github.com/Nillocoelho**
 
 ---
 
-<div align="center">
-
-✨ *“Construindo soluções reais, uma linha de código por vez.”*  
-
-</div>
+<p align="center"><i>“Construindo soluções reais, uma linha de código por vez.”</i></p>
