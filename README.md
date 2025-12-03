@@ -1,92 +1,122 @@
-🧑‍💻 Danillo Coelho Barbosa<br>
-🚀 Desenvolvedor Mobile & Full-Stack • Flutter | Dart | Angular | Java | Django
-<div align="center"> <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/> <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/> <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/> <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/> </div>
+<!-- Banner / Cabeçalho -->
 <div align="center">
 
-🎯 Mobile-first Developer apaixonado por criar soluções reais, escaláveis e bem arquitetadas.
-Atuo como Dev Mobile na Softperformance, desenvolvendo aplicações corporativas para operação industrial, integrando Flutter, Angular, Django e APIs REST.
+# 🧑‍💻 Danillo Coelho Barbosa  
+### 🚀 Desenvolvedor Mobile & Full-Stack  
+**Flutter • Dart • Angular • Java • Django • Kotlin • PostgreSQL**
+
+<br>
+
+![Tech Grid](https://svgshare.com/i/14Zc.svg)
 
 </div>
-⚡ Stack de Tecnologias
-🖥️ Mobile
 
-⚡ Flutter • Dart
+---
 
-⚡ Kotlin • Android Nativo (MVVM)
+# ⚡ Sobre mim
+Sou um **Mobile-first Developer**, apaixonado por criar aplicações escaláveis, responsivas e bem arquitetadas.  
+Atuo atualmente como **Dev Mobile na Softperformance**, trabalhando com Flutter, Angular e Django na construção de aplicações corporativas para operação industrial.
 
-⚡ Firebase (Auth, Realtime DB)
+Focado em:
+- 🔥 Arquitetura limpa  
+- 🔥 Desenvolvimento mobile  
+- 🔥 Back-end escalável  
+- 🔥 Design Patterns  
+- 🔥 Boas práticas e clean code  
 
-🌐 Front-End
+---
 
-⚡ Angular • TypeScript
+# 🧩 Tech Stack
 
-⚡ HTML5 • CSS3
+### 📱 **Mobile**
+- Flutter • Dart  
+- Kotlin • Android Nativo (MVVM)  
+- Firebase (Auth, RealtimeDB)
 
-🛠️ Back-End
+### 🌐 **Front-End**
+- Angular • TypeScript  
+- HTML5 • CSS3  
 
-⚡ Java • Spring Boot
+### 🖥 **Back-End**
+- Java • Spring Boot  
+- Python • Django  
+- Node.js • API REST  
 
-⚡ Python • Django
+### 🗄 **Databases**
+- PostgreSQL • SQLite  
+- Supabase • Prisma ORM  
 
-⚡ Node.js • API REST
+### 🔧 **Ferramentas**
+- Git • GitHub  
+- Docker  
+- Sprints Ágeis  
 
-🗄️ Databases
+---
 
-⚡ PostgreSQL • SQLite
+# 🏆 Projetos em Destaque
 
-⚡ Supabase • Prisma ORM
+> Designs limpos, código organizado e propósito claro.
 
-⚡ Firebase
+---
 
-🔧 Ferramentas e Práticas
+### 🔹 **SECAF – Plataforma de Gestão Contratual**  
+📌 *Next.js • TypeScript • Prisma ORM • Supabase*  
+🏅 **Projeto vencedor do Hackathon FUNETEC 2025**
 
-⚡ Git • GitHub • Docker
+Sistema completo para gestão e acompanhamento de contratos.  
+Repositório privado → Disponível mediante solicitação
 
-⚡ Clean Code • Design Patterns (Factory, Strategy, Template Method, Observer)
+---
 
-⚡ Arquitetura de Software • Sprints Ágeis
+### 🔹 **IFteca — App Android Nativo**  
+📱 *Kotlin • Firebase • MVVM*  
+Aplicativo mobile para reserva de salas de estudo do IFPB.
 
-🏆 Projetos em Destaque
+👉 **[Acessar repositório](https://github.com/Nillocoelho/IFteca)**
 
-Designs limpos, código organizado e propósito claro.
+---
 
-🔹 SECAF — Plataforma de Gestão Contratual (Projeto Vencedor FUNETEC 2025)
+### 🔹 **LumiCash — Sistema Financeiro**  
+💰 *Java • Spring Boot • PostgreSQL*  
+API robusta para autenticação e controle de movimentações.
 
-📌 Next.js • TypeScript • Prisma ORM • Supabase
-Sistema completo para gestão, execução e acompanhamento de contratos da FUNETEC-PB.
-🏅 Projeto campeão — selecionado e premiado em Hackathon.
+👉 **[Acessar repositório](https://github.com/Nillocoelho/Lumicash)**
 
-🔗 Repositório privado (disponível mediante solicitação)
+---
 
-🔹 IFteca — Aplicativo Android Nativo para Reservas
+### 🔹 **Laudus — Sistema Java com Design Patterns**  
+🏛 *Factory • Strategy • Template Method • Observer*  
+Aplicação educacional focada em padrões de projeto e boas práticas.
 
-📱 Kotlin • Firebase • MVVM
-Aplicativo mobile nativo para reserva de salas de estudo do IFPB, com autenticação, CRUD e sincronização em tempo real.
+👉 **[Acessar repositório](https://github.com/JessyeKessia/Laudus)**
 
-[👉 Ver repositório](https://github.com/Nillocoelho/IFteca)
+---
 
-🔹 LumiCash — Sistema Financeiro Full-Stack
+# 📊 Estatísticas do GitHub
 
-💰 Java • Spring Boot • PostgreSQL
-API robusta para cadastro, autenticação e controle de movimentações financeiras.
-
-[👉 Ver repositório](https://github.com/Nillocoelho/Lumicash)
-
-🔹 Laudus — Sistema Java com Design Patterns
-
-🏛️ Java + Padrões de Projeto (Factory, Strategy, Template Method, Observer)
-Aplicação educacional focada em arquitetura limpa e boas práticas.
-
-[👉 Ver repositório](https://github.com/JessyeKessia/Laudus)
-
-📊 Estatísticas do GitHub
-<div align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Nillocoelho&show_icons=true&theme=tokyonight&hide_border=true" /> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nillocoelho&layout=compact&theme=tokyonight&hide_border=true" /> </div>
-🌎 Conecte-se comigo
 <div align="center">
 
-📫 LinkedIn: https://www.linkedin.com/in/nillocoelho
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Nillocoelho&show_icons=true&theme=radical&hide_border=true" />
 
-💼 Portfólio: https://github.com/Nillocoelho
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nillocoelho&layout=compact&theme=radical&hide_border=true" />
 
 </div>
-🚀 “Construindo soluções reais, uma linha de código por vez.”
+
+---
+
+# 🌎 Conecte-se comigo
+
+<div align="center">
+
+🔗 **LinkedIn:** https://www.linkedin.com/in/nillocoelho  
+💼 **Portfólio:** https://github.com/Nillocoelho  
+
+</div>
+
+---
+
+<div align="center">
+
+✨ *“Construindo soluções reais, uma linha de código por vez.”*  
+
+</div>
