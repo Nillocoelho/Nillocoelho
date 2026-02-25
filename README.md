@@ -1,83 +1,101 @@
 <h1 align="center">🚀 Danillo Coelho Barbosa</h1>
 
 <p align="center">
-  <b>Desenvolvedor Mobile & Full-Stack</b><br>
-  Flutter • Dart • Angular • Java • Django • Kotlin • PostgreSQL
+  <b>Backend Java Developer</b><br>
+  Java • Spring Boot • APIs REST • PostgreSQL • Integração de Sistemas
 </p>
 
 ---
 
 ### 👨‍💻 Sobre mim
-Mobile-first Developer apaixonado por construir soluções eficientes, escaláveis e com arquitetura limpa.  
-Atuo com **Flutter/Dart** no desenvolvimento mobile corporativo, além de trabalhar com **Angular, Django, Java e APIs REST** no back-end e front-end.
 
-Busco criar aplicações com propósito claro, código limpo e foco real na experiência do usuário.
+Desenvolvedor Backend Java focado na construção de APIs REST, integração de sistemas e modelagem de banco de dados relacional.
+
+Graduado em Tecnologia em Sistemas para Internet e participante do Bootcamp Santander 2025 - Back-End (78h), com base sólida em:
+
+- Programação Orientada a Objetos (POO)
+- Collections & Streams
+- Integração com Banco de Dados
+- Testes Automatizados
+- Arquitetura e Boas Práticas
+
+Tenho experiência prática com Django REST Framework no desenvolvimento de APIs corporativas, além de vivência com desenvolvimento mobile, o que reforça meu entendimento sobre comunicação cliente-servidor.
+
+Busco evoluir continuamente em arquitetura backend, APIs escaláveis e boas práticas de engenharia de software.
 
 ---
 
 ## 🧰 Stack de Tecnologias
 
-### 📱 Mobile
-- Flutter • Dart  
-- Kotlin • Android Nativo (MVVM)  
-- Firebase (Auth + Realtime DB)
+### 🖥 Backend
+- Java
+- Spring Boot
+- Python (Django)
+- APIs REST
+- JPA / Hibernate (em evolução)
 
-### 🌐 Front-End
-- Angular • TypeScript  
-- HTML5 • CSS3  
+### 🗄 Banco de Dados
+- PostgreSQL
+- SQLite
 
-### 🖥 Back-End
-- Java • Spring Boot  
-- Python • Django  
-- Node.js • APIs REST
+### 🔗 Integração e Arquitetura
+- JSON
+- Autenticação baseada em Token
+- Padrões de Projeto (Factory, Strategy, Observer)
+- Clean Code
+- Arquitetura em Camadas
 
-### 🗄 Bancos e Storage
-- PostgreSQL  
-- SQLite  
-- Supabase  
-- Prisma ORM  
-
-### 🛠 Ferramentas e Boas Práticas
-- Git • GitHub • Docker  
-- Clean Code  
-- Design Patterns (Factory, Strategy, Template Method, Observer)  
-- Arquitetura de Software  
-- Sprints Ágeis
+### 🛠 Ferramentas
+- Git • GitHub
+- Docker (em aprendizado)
+- Postman
+- Metodologias Ágeis (Scrum)
 
 ---
 
 ## 🏆 Projetos em Destaque
 
-### 🔹 **SECAF (FUNETEC – Projeto Vencedor 2025)**
-Sistema completo de gestão contratual da FUNETEC-PB.  
-> Next.js • TypeScript • Prisma ORM • Supabase  
-🔗 Repositório: *privado — disponível sob solicitação*
+### 🔹 LumiCash — Sistema Financeiro Backend
+API robusta para controle financeiro com regras de negócio, persistência de dados e estrutura organizada em camadas.
+> Java • Spring Boot • PostgreSQL
 
 ---
 
-### 🔹 **IFteca — Reservas de Salas (Android Nativo)**
-Aplicativo nativo para reserva de salas, com MVVM, Firebase, CRUD e sincronização em tempo real.  
-> Kotlin • Firebase • MVVM  
+### 🔹 Laudus — Aplicação Java com Design Patterns
+Projeto educacional focado em boas práticas e aplicação de padrões de projeto.
+> Java • Factory • Strategy • Observer
 
 ---
 
-### 🔹 **LumiCash — Sistema Financeiro Full-Stack**
-API robusta e aplicação integrada para controle financeiro.  
-> Java • Spring Boot • PostgreSQL  
+### 🔹 SECAF (Projeto Vencedor 2025)
+Sistema completo de gestão contratual.
+> Next.js • TypeScript • Prisma ORM • Supabase
 
 ---
 
-### 🔹 **Laudus — Sistema Java com Design Patterns**
-Aplicação educacional focada em arquitetura limpa e padrões de projeto.  
-> Java • Padrões de Projeto (Factory, Strategy, Observer etc.)
+### 🔹 IFteca — Aplicativo Android
+Aplicação para reserva de salas com arquitetura MVVM.
+> Kotlin • Firebase
+
+---
+
+## 📈 Atualmente Estudando
+
+- Spring Boot avançado
+- Segurança com JWT
+- Docker aplicado a APIs
+- Arquitetura de Microserviços
 
 ---
 
 ## 🤝 Conecte-se comigo
 
-📎 LinkedIn: **https://www.linkedin.com/in/nillocoelho**  
-📂 Portfólio / GitHub: **https://github.com/Nillocoelho**
+📎 LinkedIn:  
+https://www.linkedin.com/in/nillocoelho
+
+📂 GitHub:  
+https://github.com/Nillocoelho
 
 ---
 
-<p align="center"><i>“Construindo soluções reais, uma linha de código por vez.”</i></p>
+<p align="center"><i>Construindo soluções backend sólidas e escaláveis.</i></p>
